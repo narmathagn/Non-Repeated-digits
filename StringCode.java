@@ -1,7 +1,7 @@
 import java.util.*;
 public class StringCode{
     public static void main(String args[]) {
-        int a=108;
+        int a=1015;
         int b=a;
         int n=0,count=0;
         while(a>0)
